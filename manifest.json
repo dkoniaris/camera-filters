@@ -1,0 +1,14 @@
+{
+  "name": "Φίλτρα Cam",
+  "short_name": "Φίλτρα",
+  "description": "Κάμερα με 50+ φίλτρα και εφέ προσώπου σαν Snapchat",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "start_url": "./index.html",
+  "scope": "./",
+  "background_color": "#0b0b12",
+  "theme_color": "#0b0b12",
+  "icons": [
+    { "src": "icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
